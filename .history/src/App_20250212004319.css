@@ -1,0 +1,42 @@
+.App {
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  align-content: center;
+  gap: 2vw;
+  flex-wrap: wrap;
+  background-color: #ffffff;
+  overflow: auto;
+}
+.vl {
+  border-left: 6px solid rgb(8, 8, 8);
+  height: 100%;
+  position: absolute;
+  left: 48%;
+  margin-left: -3px;
+  top: 0;
+}
+.dataCard {
+  background-color: #ffffff;
+  border-radius: 0.5em;
+  box-shadow: rgba(208, 210, 218, 0.2) 0px 8px 24px;
+  padding: 1em;
+}
+
+.revenueCard {
+  width: 92%;
+  height: 20rem;
+}
+
+.customerCard {
+  width: 50%;
+  height: 20rem;
+}
+
+.categoryCard {
+  width: 35%;
+  height: 20rem;
+}

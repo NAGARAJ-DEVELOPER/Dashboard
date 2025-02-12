@@ -1,0 +1,6 @@
+{
+    "week": "data/7days.json",
+    "today": "data/Today.json",
+    "user": "data/Users.json",
+    "category": "data/Category.json"
+  }
