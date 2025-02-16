@@ -88,7 +88,6 @@ export const App = () => {
             plugins: {
               title: {
                 text: "Last 5 Days Status",
-                align:'center',
               },
             },
           }}
@@ -211,7 +210,6 @@ export const App = () => {
             plugins: {
               title: {
                 text: "Category Classification",
-                align:'center',
               },
             },
           }}

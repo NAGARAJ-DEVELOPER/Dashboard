@@ -88,7 +88,6 @@ export const App = () => {
             plugins: {
               title: {
                 text: "Last 5 Days Status",
-                align:'center',
               },
             },
           }}
@@ -172,7 +171,6 @@ export const App = () => {
             plugins: {
               title: {
                 text: "No of Distinct Users, users with more than 1 query",
-                align:'center',
               },
             },
           }}
@@ -211,7 +209,6 @@ export const App = () => {
             plugins: {
               title: {
                 text: "Category Classification",
-                align:'center',
               },
             },
           }}
